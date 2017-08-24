@@ -1,0 +1,9 @@
+tortoiseGit 下载安装：
+	http://blog.csdn.net/renfufei/article/details/41647937
+
+Git 的使用介绍：
+	http://blog.csdn.net/renfufei/article/details/41647973
+	
+
+tortoiseGit 配置密钥：
+	http://www.cnblogs.com/chucklu/p/4056499.html
